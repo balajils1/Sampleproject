@@ -1,9 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance":xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
- <dependency>
-   <groupId>aatree</groupId>
-   <artifactId>aaworker</artifactId>
-   <version>0.3.2</version>
-</dependency>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>aatree</groupId>
+  <artifactId>aaworker</artifactId>
+  <version>0.1.4</version>
+  <name>aaworker</name>
+  <description>An Extensible Web Worker for Hoplon.</description>
+  <url>https://github.com/aatree/aaworker</url>
+  <licenses>
+    <license>
+      <url>http://www.eclipse.org/legal/epl-v10.html</url>
+      <name>EPL</name>
+      <comments/>
+    </license>
+  </licenses>
+  <scm>
+    <url>https://github.com/aatree/aaworker</url>
+    <tag>d5c1cb1b02b2185ec4034db619dedb4b0005a1ac</tag>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>org.clojure</groupId>
+      <artifactId>clojure</artifactId>
+      <version>1.8.0</version>
+      <scope>provided</scope>
+      <exclusions/>
+    </dependency>
+    <dependency>
+      <groupId>org.clojure</groupId>
+      <artifactId>clojurescript</artifactId>
+      <version>1.8.40</version>
+      <scope>provided</scope>
+      <exclusions/>
+    </dependency>
+    <dependency>
+      <groupId>adzerk</groupId>
+      <artifactId>bootlaces</artifactId>
+      <version>0.1.13</version>
+      <scope>test</scope>
+      <exclusions/>
+    </dependency>
+  </dependencies>
 </project>
-    
