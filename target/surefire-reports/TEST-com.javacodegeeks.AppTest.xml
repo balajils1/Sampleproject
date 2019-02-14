@@ -28,8 +28,8 @@
     <property name="user.language" value="en"/>
     <property name="JOB_BASE_NAME" value="SampleProject"/>
     <property name="CONDA_SHLVL" value="1"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/SampleProject/57/display/redirect?page=changes"/>
-    <property name="BUILD_DISPLAY_NAME" value="#57"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/SampleProject/61/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#61"/>
     <property name="TMPDIR" value="/var/folders/dt/9lt1zy111y56dpx08m72fhmm0000gn/T/"/>
     <property name="sun.boot.library.path" value="/Users/balajils/.jenkins/tools/hudson.model.JDK/jdk1/jre/lib"/>
     <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="b73d98b254e9f26031a67b3f14cab78de3e0e5e1"/>
@@ -40,7 +40,7 @@
     <property name="NODE_NAME" value="master"/>
     <property name="TERM" value="xterm-256color"/>
     <property name="java.endorsed.dirs" value="/Users/balajils/.jenkins/tools/hudson.model.JDK/jdk1/jre/lib/endorsed"/>
-    <property name="BUILD_ID" value="57"/>
+    <property name="BUILD_ID" value="61"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -55,7 +55,7 @@
     <property name="java.home" value="/Users/balajils/.jenkins/tools/hudson.model.JDK/jdk1/jre"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="os.version" value="10.14"/>
-    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/SampleProject/57/display/redirect"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/SampleProject/61/display/redirect"/>
     <property name="POM_VERSION" value="1.1-SNAPSHOT"/>
     <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
     <property name="CONDA_EXE" value="/Users/balajils/anaconda2/bin/conda"/>
@@ -64,7 +64,7 @@
     <property name="CONDA_PROMPT_MODIFIER" value=""/>
     <property name="GIT_PREVIOUS_COMMIT" value="b73d98b254e9f26031a67b3f14cab78de3e0e5e1"/>
     <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/SampleProject/display/redirect"/>
-    <property name="RT_RELEASE_STAGING_NEXT_VERSION" value="1.3-SNAPSHOT"/>
+    <property name="RT_RELEASE_STAGING_NEXT_VERSION" value="1.4-SNAPSHOT"/>
     <property name="SHLVL" value="1"/>
     <property name="_" value="/usr/local/bin/jenkins"/>
     <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
@@ -74,10 +74,10 @@
     <property name="LOGNAME" value="balajils"/>
     <property name="POM_PACKAGING" value="jar"/>
     <property name="HOME" value="/Users/balajils"/>
-    <property name="RT_RELEASE_STAGING_VERSION" value="1.3"/>
+    <property name="RT_RELEASE_STAGING_VERSION" value="1.4"/>
     <property name="POM_GROUPID" value="com.javacodegeeks"/>
     <property name="user.home" value="/Users/balajils"/>
-    <property name="BUILD_TAG" value="jenkins-SampleProject-57"/>
+    <property name="BUILD_TAG" value="jenkins-SampleProject-61"/>
     <property name="JENKINS_SERVER_COOKIE" value="81eb512643f40d25"/>
     <property name="HUDSON_URL" value="http://localhost:8080/"/>
     <property name="XPC_SERVICE_NAME" value="0"/>
@@ -91,7 +91,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="/Users/balajils/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven1"/>
     <property name="java.class.path" value="/Users/balajils/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-agent-1.12-alpha-1.jar:/Users/balajils/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven1/boot/plexus-classworlds-2.5.2.jar:/Users/balajils/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven1/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /Users/balajils/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven1 /Users/balajils/.jenkins/war/WEB-INF/lib/remoting-3.27.jar /Users/balajils/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.12-alpha-1.jar /Users/balajils/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.12-alpha-1.jar 61544"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /Users/balajils/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven1 /Users/balajils/.jenkins/war/WEB-INF/lib/remoting-3.27.jar /Users/balajils/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.12-alpha-1.jar /Users/balajils/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.12-alpha-1.jar 61747"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PATH+JDK" value="/Users/balajils/.jenkins/tools/hudson.model.JDK/jdk1/bin"/>
     <property name="java.vm.specification.version" value="1.8"/>
@@ -101,9 +101,9 @@
     <property name="java.io.tmpdir" value="/var/folders/dt/9lt1zy111y56dpx08m72fhmm0000gn/T/"/>
     <property name="HUDSON_HOME" value="/Users/balajils/.jenkins"/>
     <property name="PATH+MAVEN" value="/Users/balajils/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven1/bin"/>
-    <property name="BUILD_URL" value="http://localhost:8080/job/SampleProject/57/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/SampleProject/61/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
-    <property name="buildInfoConfig.propertiesFile" value="/Users/balajils/.jenkins/workspace/SampleProject@tmp/artifactory/buildInfo3554322288915746331.properties"/>
+    <property name="buildInfoConfig.propertiesFile" value="/Users/balajils/.jenkins/workspace/SampleProject@tmp/artifactory/buildInfo3844039889898642465.properties"/>
     <property name="ITERM_PROFILE" value="Device1"/>
     <property name="SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.ijAP6vHH3V/Listeners"/>
     <property name="LC_CTYPE" value="UTF-8"/>
@@ -118,19 +118,19 @@
 "/>
     <property name="MAVEN_HOME" value="/Users/balajils/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven1"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="57"/>
+    <property name="BUILD_NUMBER" value="61"/>
     <property name="JENKINS_URL" value="http://localhost:8080/"/>
     <property name="TERM_PROGRAM_VERSION" value="3.2.7"/>
     <property name="GIT_BRANCH" value="origin/master"/>
     <property name="COLORTERM" value="truecolor"/>
     <property name="ITERM_SESSION_ID" value="w1t0p0:C8E8F5AA-1FB8-4808-9F59-330DC8FD4439"/>
     <property name="GIT_COMMIT" value="b73d98b254e9f26031a67b3f14cab78de3e0e5e1"/>
-    <property name="RELEASE_SCM_TAG" value="SampleApplication-1.3"/>
+    <property name="RELEASE_SCM_TAG" value="SampleApplication-1.4"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="maven3.interceptor" value="/Users/balajils/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.12-alpha-1.jar"/>
     <property name="WORKSPACE" value="/Users/balajils/.jenkins/workspace/SampleProject"/>
     <property name="maven3.interceptor.common" value="/Users/balajils/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.12-alpha-1.jar"/>
-    <property name="RT_RELEASE_STAGING_SCM_TAG" value="SampleApplication-1.3"/>
+    <property name="RT_RELEASE_STAGING_SCM_TAG" value="SampleApplication-1.4"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="USER" value="balajils"/>
     <property name="GIT_URL" value="https://github.com/balajils1/SampleProject.git"/>
